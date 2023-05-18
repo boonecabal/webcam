@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Webcam.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="OGDEN_URL_LOCAL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://127.0.0.1:5000/api/v1/customer_photo</Value>
+    </Setting>
+    <Setting Name="OGDEN_URL_REMOTE" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="OGDEN_URL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://127.0.0.1:5000/api/v1/customer_photo</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
